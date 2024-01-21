@@ -1,5 +1,5 @@
 # My Personal Info
-  linkedin.com/in/rizal-fadillah-89bb9a201/
+  https://www.linkedin.com/in/rizal-fadillah-89bb9a201/
   
 # Dataset
 - California Housing Prices
